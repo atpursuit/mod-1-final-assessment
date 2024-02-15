@@ -7,6 +7,7 @@
  * // Returns: ["Apple", "Cat"]
  */
 function wordsStartingWithCapital() {}
+return stringsArray
 
 /**
  * Calculates the sum of all odd numbers greater than 10 in the given array.
